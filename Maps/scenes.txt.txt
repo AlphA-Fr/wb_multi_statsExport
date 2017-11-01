@@ -1,0 +1,16 @@
+scn_multi_scene_alpha_eleyndbourg multi_scene_alpha_eleyndbourg 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030030e000004c113000033cc0000475b00002f1a 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_alpha_mirage_bay multi_scene_alpha_mirage_bay 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ sea_outer_terrain 
+scn_multi_scene_alpha_jelkala multi_scene_alpha_jelkala 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300214100003ecfb00002b930000051900002c29 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_alpha_ravaged_forest multi_scene_alpha_ravaged_forest 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
